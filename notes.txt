@@ -1,4 +1,4 @@
-pasta data01401: nao extraiu corretamente arquivo: 4_0713
+
 
 .\VNTextPatch.exe extractlocal  "C:\Users\artur\Documents\Traduções\Traduzindo\Subahibi\Script\CVTD" "C:\Users\artur\Documents\Traduções\Traduzindo\Subahibi\Script_json\CVTD" --format=ethornell
 1-1_0710_dream
@@ -18,5 +18,3 @@ pasta data01401: nao extraiu corretamente arquivo: 4_0713
 Pilha vazia.
 
 
-
-###Caracteres que podem ser substituídos: $ & @ ` \ { } |
